@@ -17,12 +17,3 @@
 
 6.Then run Frontend webclient on webstorm.
 
-
-
-(Name- P.M.C.P.Paththinisekara
-
- Reg No- IT17056212
-
- Contact No- 0775793996
-
- Email-pmchamikaprabath@gmail.com)
