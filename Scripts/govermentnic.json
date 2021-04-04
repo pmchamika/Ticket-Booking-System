@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5cdfc500c3d45d4104cdc326"},"nic":"123456789v","status":"yes"}
+{"_id":{"$oid":"5cdfc52cc3d45d4104cdc327"},"nic":"456789123v","status":"yes"}
+{"_id":{"$oid":"5ce2c2200afafb4b904d6567"},"nic":"564649879v","status":"yes"}
+{"_id":{"$oid":"5ce2c2440afafb4b904d6568"},"nic":"965484977v","status":"yes"}

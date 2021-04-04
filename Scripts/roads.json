@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5ccad9dc8e71e52844bae635"},"road":"Negombo-Colombo","price":"150"}
+{"_id":{"$oid":"5ccada528e71e52844bae636"},"road":"Negombo-Alawwa","price":"50"}
+{"_id":{"$oid":"5ccada738e71e52844bae637"},"road":"Abewela-Dehiwala","price":"200"}
+{"_id":{"$oid":"5ce2c9610afafb4b904d6569"},"road":"Colombo-Negombo","price":"150"}
+{"_id":{"$oid":"5ce2c97c0afafb4b904d656a"},"road":"Colombo-Kollupitiya","price":"175"}
+{"_id":{"$oid":"5ce2c9a90afafb4b904d656b"},"road":"Trinkomalee-Colombo","price":"300"}
